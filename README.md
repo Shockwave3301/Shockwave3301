@@ -54,7 +54,7 @@ Joined a team in September 2024 to build a new 5ka.ru grocery delivery platform.
 
 ---
 
-### <img src="funbox.png" alt="MTS AI" height="30"/>
+### <img src="mts_logo.png" alt="MTS AI" height="30"/>
 **January 2020 - April 2023**
 
 **Tech Stack:** TypeScript, React, Redux, Material-UI, React Flow
