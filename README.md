@@ -1,3 +1,16 @@
+## Contact Me
+<p>
+  <a href="mailto:shakhbulatgaz@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-shakhbulatgaz@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/shakhbulatgaz" target="_blank">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-@shakhbulatgaz-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/shakhbulat-gazgireev-05858138a/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shakhbulat_Gazgireev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 ## About
 
 Frontend Developer with 6+ years of experience in TypeScript, React, and Redux. Experienced working independently across organizations from startups to enterprises, delivering large-scale applications and rapid prototypes with minimal guidance and autonomous stakeholder communication.
