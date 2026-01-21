@@ -37,9 +37,13 @@ Frontend Developer with 6+ years of experience in TypeScript, React, and Redux. 
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="CSS Modules" src="https://img.shields.io/badge/-CSS_Modules-000000?style=flat-square&logo=css-modules&logoColor=white" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
   <img alt="Chakra UI" src="https://img.shields.io/badge/-Chakra_UI-319795?style=flat-square&logo=chakra-ui&logoColor=white" />
   <img alt="Material UI" src="https://img.shields.io/badge/-Material_UI-0081CB?style=flat-square&logo=material-ui&logoColor=white" />
+  <img alt="WebSocket" src="https://img.shields.io/badge/-WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white" />
+  <img alt="Bun" src="https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white" />
+  <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
 </p>
 
 ---
@@ -49,7 +53,16 @@ Frontend Developer with 6+ years of experience in TypeScript, React, and Redux. 
 ### <img src="smartprice_logo.png" alt="SMART PRICE LLC" height="30"/>
 **April 2025 - Present**
 
-**Tech Stack:** React, Redux, ChakraUI, WebSocket, CSS Modules
+<p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="CSS Modules" src="https://img.shields.io/badge/-CSS_Modules-000000?style=flat-square&logo=css-modules&logoColor=white" />
+  <img alt="Chakra UI" src="https://img.shields.io/badge/-Chakra_UI-319795?style=flat-square&logo=chakra-ui&logoColor=white" />
+  <img alt="WebSocket" src="https://img.shields.io/badge/-WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white" />
+  <img alt="Bun" src="https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white" />
+  <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+</p>
 
 #### Self-Checkout Cash Recycler Integration (April 2025 - Present)
 Built cash payment UI for self-checkout kiosks integrating external cash recycler hardware. Implemented 8+ distinct workflows (deposits, withdrawals, replenishment, encashment, diagnostics) handling 20+ hardware states and error conditions via WebSocket. Delivered production build in under 5 months. Deployed to 2000+ stores, handling ~300 transactions per device daily.
@@ -62,7 +75,15 @@ Created store management dashboard to analyze and link electronic shelf labels (
 ### <img src="x5_logo.png" alt="X5 GROUP" height="30"/>
 **April 2023 - April 2025**
 
-**Tech Stack:** TypeScript, React, Redux, CSS Modules, SASS, ChakraUI
+<p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="CSS Modules" src="https://img.shields.io/badge/-CSS_Modules-000000?style=flat-square&logo=css-modules&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="Chakra UI" src="https://img.shields.io/badge/-Chakra_UI-319795?style=flat-square&logo=chakra-ui&logoColor=white" />
+  <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+</p>
 
 #### Delivery Mobile App Support
 Maintained "Pyaterochka" ("Пятерочка") grocery delivery mobile app (WebView-based). Fixed critical bugs, increased test coverage from 70% to 95%, and reduced app size by 15% through media format optimization (.webp/.webm).
@@ -78,8 +99,14 @@ Joined a team in September 2024 to build a new 5ka.ru grocery delivery platform.
 ### <img src="mts_logo.png" alt="MTS AI" height="30"/>
 **January 2020 - April 2023**
 
-**Tech Stack:** TypeScript, React, Redux, Material-UI, React Flow
-
+<p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="Material UI" src="https://img.shields.io/badge/-Material_UI-0081CB?style=flat-square&logo=material-ui&logoColor=white" />
+  <img alt="React Flow" src="https://img.shields.io/badge/-React_Flow-FF6B6B?style=flat-square&logo=react&logoColor=white" />
+</p>
 #### Visual Chatbot Builder Platform
 Frontend developer for no-code chatbot creation platform with drag-and-drop flowchart interface. Built node-based workflow editor enabling users to create chatbot logic using messaging, API calls, and external tools. Developed debug UI for testing chatbots; adopted by entire team for testing and client presentations. Serves 200+ businesses in Russia and CIS, supporting hundreds of chatbot deployments monthly.
 
