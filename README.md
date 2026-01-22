@@ -1,7 +1,7 @@
 ## Contact Me
 <p>
-  <a href="mailto:shakhbulatgaz@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-shakhbulatgaz@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:shockwave3301@proton.me" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-shockwave3301@proton.me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <br>
   <a href="https://t.me/shakhbulatgaz" target="_blank">
