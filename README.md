@@ -25,11 +25,37 @@ I work alone on a product or inside a team, at large companies and small ones.
 
 ## Stack
 
-**Core:** TypeScript, JavaScript, React, Redux, TanStack Query and Router, REST APIs, WebSocket
-**UI:** Chakra UI, Radix, Material UI, CSS Modules, SASS, Storybook, Figma
-**Testing and tooling:** Vitest, Jest, Cypress, Mock Service Worker, Vite, Webpack
+<p>
+  <img src="assets/icons/typescript.svg" alt="TypeScript" title="TypeScript" height="40" />
+  <img src="assets/icons/javascript.svg" alt="JavaScript" title="JavaScript" height="40" />
+  <img src="assets/icons/react.svg" alt="React" title="React" height="40" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/redux-dark.svg" /><img src="assets/icons/redux.svg" alt="Redux" title="Redux" height="40" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/tanstack-dark.svg" /><img src="assets/icons/tanstack.svg" alt="TanStack" title="TanStack" height="40" /></picture>
+  <img src="assets/icons/chakraui.svg" alt="Chakra UI" title="Chakra UI" height="40" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/radixui-dark.svg" /><img src="assets/icons/radixui.svg" alt="Radix" title="Radix" height="40" /></picture>
+  <img src="assets/icons/materialui.svg" alt="Material UI" title="Material UI" height="40" />
+  <img src="assets/icons/css3.svg" alt="CSS" title="CSS" height="40" />
+  <img src="assets/icons/sass.svg" alt="Sass" title="Sass" height="40" />
+  <img src="assets/icons/storybook.svg" alt="Storybook" title="Storybook" height="40" />
+  <img src="assets/icons/figma.svg" alt="Figma" title="Figma" height="40" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/vitest-dark.svg" /><img src="assets/icons/vitest.svg" alt="Vitest" title="Vitest" height="40" /></picture>
+  <img src="assets/icons/jest.svg" alt="Jest" title="Jest" height="40" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/cypress-dark.svg" /><img src="assets/icons/cypress.svg" alt="Cypress" title="Cypress" height="40" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/vite-dark.svg" /><img src="assets/icons/vite.svg" alt="Vite" title="Vite" height="40" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/webpack-dark.svg" /><img src="assets/icons/webpack.svg" alt="Webpack" title="Webpack" height="40" /></picture>
+</p>
+
+- **Core:** TypeScript, JavaScript, React, Redux, TanStack Query and Router, REST APIs, WebSocket
+- **UI:** Chakra UI, Radix, Material UI, CSS Modules, SASS, Storybook, Figma
+- **Testing and tooling:** Vitest, Jest, Cypress, Mock Service Worker, Vite, Webpack
 
 ## AI-assisted development
+
+<p>
+  <img src="assets/icons/claude.svg" alt="Claude Code" title="Claude Code" height="40" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/opencode-dark.svg" /><img src="assets/icons/opencode.svg" alt="OpenCode" title="OpenCode" height="40" /></picture>
+  <img src="assets/icons/coderabbit.svg" alt="CodeRabbit" title="CodeRabbit" height="40" />
+</p>
 
 I set the team standard for AI development tools across four frontend projects. That covers Claude Code and OpenCode, internal webinars on both, and CodeRabbit for automated review. I also built an AI meeting-notes bot that saves several hours of manual work per week.
 
